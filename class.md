@@ -1,2 +1,0 @@
-Alikhan
-Back End Developer
